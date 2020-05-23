@@ -58,7 +58,7 @@ def work2():
 def gen():
     work_dir_path = current_dir_path + '/PM'
     os.chdir(work_dir_path)
-    times = 50
+    times = 10
     i = 0
     while i < times:
         i += 1
