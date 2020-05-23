@@ -36,6 +36,7 @@ def work():
                 print('正在移动[{}]到---------->[{}]文件夹中'.format(x, y))
 
 
+
 def work2():
     files = []
     dirs = []
